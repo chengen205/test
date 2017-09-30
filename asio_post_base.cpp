@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "asio_post_base.h"
-
+ 
 IoServicePool::IoServicePool() :io_service_()
 {
 }
